@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    flex: 0 1 29%;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: auto;
+    border: 1px solid #10171d;
+    margin: 1em;
+    border-radius: 0.19em;
+}
+
+.description {
+    word-wrap: break-word;
+    padding: 0.5%;
+    font-style: italic;
+     border:1px solid blue;
+    margin: 0.2em;
+    width: 100%;
+    display: inline-block;
+}
+
+.image {
+    padding: 1em;
+    width: 17em;
+    height: auto;
+}
